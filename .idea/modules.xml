@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/miaosha-server/miaosha-server.iml" filepath="$PROJECT_DIR$/miaosha-server/miaosha-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock/stock.iml" filepath="$PROJECT_DIR$/stock/stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/time-server/time-server.iml" filepath="$PROJECT_DIR$/time-server/time-server.iml" />
+    </modules>
+  </component>
+</project>
