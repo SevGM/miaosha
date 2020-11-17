@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/miaosha-server/pom.xml" />
         <option value="$PROJECT_DIR$/time-server/pom.xml" />
         <option value="$PROJECT_DIR$/stock/pom.xml" />
+        <option value="$PROJECT_DIR$/storage/pom.xml" />
       </list>
     </option>
   </component>

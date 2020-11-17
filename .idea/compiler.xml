@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="storage" />
         <module name="stock" />
         <module name="time-server" />
         <module name="miaosha-server" />
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="miaosha-server" target="1.8" />
       <module name="stock" target="1.8" />
+      <module name="storage" target="1.8" />
       <module name="time-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="miaosha-server" options="-parameters" />
       <module name="stock" options="-parameters" />
+      <module name="storage" options="-parameters" />
       <module name="time-server" options="-parameters" />
     </option>
   </component>
