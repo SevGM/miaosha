@@ -1,9 +1,10 @@
 package com.example.stock.Entity;
 
+import java.io.Serializable;
 import java.math.BigInteger;
 import java.sql.Timestamp;
 
-public class Sku {
+public class Sku implements Serializable {
     // sku id
     BigInteger id;
     // spu id

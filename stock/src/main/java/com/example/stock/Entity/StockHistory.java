@@ -1,9 +1,10 @@
 package com.example.stock.Entity;
 
+import java.io.Serializable;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
-public class StockHistory {
+public class StockHistory implements Serializable {
     // id
     BigInteger id;
     // 库存主表id

@@ -1,8 +1,9 @@
 package com.example.stock.Entity;
 
+import java.io.Serializable;
 import java.math.BigInteger;
 
-public class SpuDetail {
+public class SpuDetail implements Serializable {
     /**
      * spu的详情，包括从tb_spu、tb_spu_detail中查询到的数据
      */
