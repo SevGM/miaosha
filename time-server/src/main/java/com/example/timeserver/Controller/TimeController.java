@@ -12,6 +12,7 @@ public class TimeController {
     @RequestMapping(value = "/getTime")
     public String getTime(){
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        // 把Date转为string
         return simpleDateFormat.format(new Date());
     }
 }
