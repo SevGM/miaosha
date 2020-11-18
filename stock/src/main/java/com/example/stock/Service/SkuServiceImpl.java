@@ -17,10 +17,8 @@ import java.util.*;
 public class SkuServiceImpl implements SkuService{
     @Autowired
     SkuMapper skuMapper;
-
     @Autowired
     StringRedisTemplate stringRedisTemplate;
-
     @Autowired
     RestTemplate restTemplate;
 
