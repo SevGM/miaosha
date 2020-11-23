@@ -7,5 +7,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/miaosha</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="29服务器 [2]" uuid="3cf31028-28d9-4d7f-895e-bd37067a0998">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://202.205.99.174:13306/mayuanhao</jdbc-url>
+    </data-source>
   </component>
 </project>

@@ -17,6 +17,14 @@ public class StorageServiceImpl implements StorageService {
     @Autowired
     StorageMapper storageMapper;
 
+    /**
+     *
+     * @param skuID
+     * @param warehouseID
+     * @param inQuanty
+     * @param outQuanty
+     * @return
+     */
     @Override
     @Transactional
     public Map<String, Object> insertStorage(BigInteger skuID, BigInteger warehouseID,

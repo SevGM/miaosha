@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/time-server/pom.xml" />
         <option value="$PROJECT_DIR$/stock/pom.xml" />
         <option value="$PROJECT_DIR$/storage/pom.xml" />
+        <option value="$PROJECT_DIR$/user/pom.xml" />
       </list>
     </option>
   </component>

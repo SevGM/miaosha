@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-commons:3.0.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.0-SNAPSHOT/spring-cloud-commons-3.0.0-20201117.115210-470.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.0-SNAPSHOT/spring-cloud-commons-3.0.0-20201122.160530-484.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.0-SNAPSHOT/spring-cloud-commons-3.0.0-20201117.115210-470-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.0-SNAPSHOT/spring-cloud-commons-3.0.0-20201122.160530-484-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.0-SNAPSHOT/spring-cloud-commons-3.0.0-20201117.115210-470-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/3.0.0-SNAPSHOT/spring-cloud-commons-3.0.0-20201122.160530-484-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
