@@ -11,7 +11,6 @@ public class MQConfig {
 
     @Bean
     public Queue queueStorage(){
-        //:TODO: 学习rabbitmq使用方法
-        return new Queue("storage_name", true);
+         return new Queue("storage_queue", true);
     }
 }

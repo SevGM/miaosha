@@ -27,7 +27,7 @@ public interface StorageMapper {
             "WHERE sku_id = #{skuID} AND quanty + #{changeQuanty} >= 0")
     int updateStorage(BigInteger skuID, BigDecimal changeQuanty);
 
-    @Update("INSERT INTO tb_stock_storage_history(stock_storage_id,in_quanty,out_quanty)" +
+    @Insert("INSERT INTO tb_stock_storage_history(stock_storage_id,in_quanty,out_quanty)" +
             "VALUES(#{stockStorageID},#{inQuanty},#{outQuanty})")
     int insertStockHistory(BigInteger stockStorageID, BigDecimal inQuanty, BigDecimal outQuanty);
 
