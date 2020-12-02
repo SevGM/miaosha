@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-netflix-eureka-client:3.0.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.0-SNAPSHOT/spring-cloud-netflix-eureka-client-3.0.0-20201124.050130-1890.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.0-SNAPSHOT/spring-cloud-netflix-eureka-client-3.0.0-20201201.140125-1956.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.0-SNAPSHOT/spring-cloud-netflix-eureka-client-3.0.0-20201124.050130-1890-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.0-SNAPSHOT/spring-cloud-netflix-eureka-client-3.0.0-20201201.140125-1956-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.0-SNAPSHOT/spring-cloud-netflix-eureka-client-3.0.0-20201124.050130-1890-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/3.0.0-SNAPSHOT/spring-cloud-netflix-eureka-client-3.0.0-20201201.140125-1956-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

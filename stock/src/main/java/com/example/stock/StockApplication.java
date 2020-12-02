@@ -22,6 +22,7 @@ public class StockApplication {
 		/**
 		 * 添加该方法才能调用其他微服务
 		 */
-		return new RestTemplate(); }
+		return new RestTemplate();
+	}
 
 }
